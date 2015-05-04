@@ -110,10 +110,10 @@ units.
 When you put variables into a spreadsheet there are several main categories you will run into depending on their [data type](http://en.wikipedia.org/wiki/Statistical_data_type):
 
 1. Continuous
-1. Ordinal
-1. Categorical
-1. Missing 
-1. Censored
+2. Ordinal
+3. Categorical
+4. Missing 
+5. Censored
 
 Continuous variables are anything measured on a quantitative scale that could be any fractional number. An example
 would be something like weight measured in kg. [Ordinal data](http://en.wikipedia.org/wiki/Ordinal_data) are data that have a fixed, small (< 100) number of levels but are ordered. 
